@@ -11,5 +11,4 @@ def main():
         print(f"{numbers} nie należą do przedziału")
 
 
-if __name__ == '__main__':
-    main()
+main()

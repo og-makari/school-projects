@@ -7,5 +7,4 @@ def main():
     average = average / len(table)
     print(f"Średnia liczb: {round(average, 2)}")
 
-if __name__ == '__main__':
-    main()
+main()

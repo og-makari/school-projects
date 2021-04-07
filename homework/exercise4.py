@@ -7,5 +7,4 @@ def main():
     divisors.append(num)
     print(f"Dzielniki liczby {num} to {divisors}")
 
-if __name__ == '__main__':
-    main()
+main()

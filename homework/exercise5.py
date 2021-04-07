@@ -8,5 +8,4 @@ def main():
     print("Wszystkie elementy mieszcza sie w zakresie <10; 50>")
 
 
-if __name__ == '__main__':
-    main()
+main()

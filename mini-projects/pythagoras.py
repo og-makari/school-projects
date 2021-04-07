@@ -5,5 +5,4 @@ def main():
         result = (a ** 2 + b ** 2) ** (0.5)
         print(f"Długość przeciwprostokątnej: {result}")
 
-if __name__ == "__main__":
-    main()
+main()

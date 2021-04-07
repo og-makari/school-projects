@@ -7,5 +7,4 @@ def main():
     else:
         print("Nie można zbudować trójkąta")
 
-if __name__ == "__main__":
-    main()
+main()
